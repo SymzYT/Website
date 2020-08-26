@@ -1,3 +1,1 @@
-Hello! Welcome to our website.
-Enjoy your stay!
-Make sure to check around!
+<br>Hello, welcome to our website! Enjoy your stay here.<br>
