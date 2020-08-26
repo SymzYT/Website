@@ -1,2 +1,3 @@
-Credits:
-Carson Wimpfheimer - Coder/Designer
+<br>
+Credits: Carson Wimpfheimer - Coder
+`end
