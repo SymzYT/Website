@@ -1,3 +1,4 @@
 <br>
 Hello! Welcome to our website, enjoy your stay here!
+Make sure to explore our website!
 `end
